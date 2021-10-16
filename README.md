@@ -10,12 +10,12 @@ So we have to change the layout/activity_main.xml to layout/activity_main
 
  it will no errors.
 
-##Building :-
+## Building :-
 First Create the Android Project and do all first proccess and simply click on Run icon, it will start the building wait for 1 to 2 minutes, if it gives error you will see a error dialog.
 
 on Build Successful you need to give permission for installing apps for A-IDE
 
-##Devlopment :-
+## Devlopment :-
 It is underdevelopment so there is no other Mavens Libraries. in future updates there will be an option for supporting External Libraries
 
 Stay Tuned :- For Upcoming Updates
